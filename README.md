@@ -25,4 +25,4 @@ Our group developed a web-based information system for a retail music store. The
 * Update inventory and maintain transaction records.
 
 # Platform
-The front-end user interface was developed with HTML, CSS and JavaScript. These technologies provided UI enhancements, and input validation. PHP and MySQL were used for the back-end web server and database storage/management. These choices simplified the development process by minimizing framework dependencies and allowing a single server to provide both database and web server functionality.
+The front-end user interface was developed with HTML, CSS and JavaScript. These technologies provided UI enhancements, and input validation. PHP and MySQL were used for the back-end web server and database storage/management. These choices simplified the development process by minimizing framework dependencies and allowed a single server to provide both database and web server functionality.
